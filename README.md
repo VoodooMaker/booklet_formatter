@@ -5,20 +5,20 @@
 This is the newest version of my booklet_format program. It boasts multiple new features from the original.
 
 The old features include:
-  Deletion of return characters used for formatting,
-  Adding pages to a PDF for booklet printing,
-  Reordering a PDF for booklet printing,
-  Automatic file naming for new file,
-  Error detection.
+  deletion of return characters used for formatting,
+  adding pages to a PDF for booklet printing,
+  reordering a PDF for booklet printing,
+  automatic file naming for new file,
+  error detection.
 
 New feature include:
-  Ability to reduce string of returns to a chosen amount,
-  Better error detection and handling,
-  Less import statements,
-  Character deletion,
-  More extensive PDF library (PyMuPDF),
-  Doubling up of pages onto one,
-  Flipping every other page.
+  ability to reduce string of returns to a chosen amount,
+  better error detection and handling,
+  less import statements,
+  character deletion,
+  more extensive PDF library (PyMuPDF),
+  doubling up of pages onto one,
+  flipping every other page.
 
 As you can see there is a lot of different features, but why are they necessary? 
 
